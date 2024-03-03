@@ -1,0 +1,22 @@
+#boton{
+	padding: 15px 20px;
+}
+#boton li{
+	display: inline-flex;
+}
+ #boton li a{
+ 	font-family: Arial;
+ 	font-size:  20px;
+ 	text-decoration: none;
+ 	float: left;
+ 	padding: 20px;
+ 	background-color: #A569BD ;
+ 	color: #1B2631;
+
+ }
+
+ #boton li a:hover {
+ 	background-color: #7D3C98;
+ 	margin-top: -2;
+ 	padding-bottom:12px ;
+ }
